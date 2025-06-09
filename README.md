@@ -1,7 +1,7 @@
 
 # Data-Driven Observer-Based Model-Free Adaptive Terminal Sliding Mode Control of Rigid Robot Manipulators
 
-This repository contains MATLAB code for simulating the examples presented in our paper:
+This repository contains MATLAB code for simulating the examples presented in our paper:   
 📄 **Title**: Data-driven observer-based model-free adaptive discrete-time terminal sliding mode control of rigid robot manipulators  
 📰 **Authors**: Babak Esmaeili, Mina Salim, Mahdi Baradarannia, Ali Farzamnia  
 📅 **Conference**: Proceedings of the 7th RSI International Conference on Robotics and Mechatronics (ICRoM 2019)
