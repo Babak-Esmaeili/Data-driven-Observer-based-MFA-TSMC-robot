@@ -18,7 +18,7 @@ This work develops a data-driven observer-based, model-free adaptive terminal sl
 
 ## 🧠 Abstract
 
-This work develops a robust data-driven control scheme for rigid robot manipulators with unknown dynamics. By applying full-form dynamic linearization, the nonlinear manipulator model is transformed into a linear discrete-time data model. Data-driven multi-observers estimate system outputs and pseudo-partitioned Jacobian matrices. A terminal sliding mode controller on a nonlinear sliding surface ensures finite-time convergence and robustness to disturbances without requiring explicit system modeling. Simulation results on a 2-DOF manipulator demonstrate superior tracking accuracy and disturbance rejection.
+This paper aims to design a data-driven observer-based model-free adaptive terminal sliding mode controller for rigid robot manipulators whose models are unknown in advance. First, the nonlinear robot manipulator dynamics are transformed to an equivalent linear discrete-time data-model using full-form dynamic linearization technique and multi-observers along with an adaptation law are designed in order to estimate system outputs and pseudo-partitioned Jacobian matrix, respectively. Second, based on a nonlinear data-driven terminal sliding surface, the robust discrete-time controller is obtained. Mathematical analysis guarantees the finite-time convergence and the stability of the closed-loop system. The comparative simulations lighten the superiority of the proposed work and the robustness of the proposed controller against external disturbances is validated by means of simulations.
 
 ---
 
